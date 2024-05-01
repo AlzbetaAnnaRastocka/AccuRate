@@ -1,1 +1,1 @@
-# AccuRate
+# BachelorThesisBioinformatics
